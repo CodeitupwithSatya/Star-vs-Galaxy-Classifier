@@ -1,0 +1,1 @@
+This is basically a project which classifies the stars and galaxies using astronomical data. I have used simple logistic regression model to drain the dataset and to obtain the result for the test data set.
